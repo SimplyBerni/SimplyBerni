@@ -1,6 +1,5 @@
 # 🏛️ Berni | Strategic Data Architect & Practice Lead
-**Evidence-Based Decision Support | Technical Integrity | Stakeholder Accountability**
----
+
 ### The Framework: Decisions Without the Guesswork
 A "gut feeling" is a luxury that modern business can rarely afford. I bridge the gap between intuition and execution by providing the **data-driven evidence** necessary to turn a hypothesis into a strategic move. 
 
