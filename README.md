@@ -1,148 +1,72 @@
 # 🏛️ Berni | Strategic Data Architect • Analytics Leader • Decision Intelligence
 
-## Turning Data Into Decisions That Hold Under Pressure
+> *"Insight only matters when it changes behaviour."*
 
+---
+
+## 🎯 The Value I Bring
 Modern organisations generate more data than ever, yet many still make critical decisions with incomplete evidence, weak governance, or intuition disguised as strategy.
 
-I work at the intersection of **data architecture, analytics, and executive decision-making**  empowering organisations to move from uncertainty to clarity.
+I work at the intersection of **data architecture, analytics, and executive decision-making**—empowering organisations to move from uncertainty to clarity.
 
-My focus is simple:
-
-> Build trusted data foundations.  
-> Translate complexity into insight.  
-> Enable leaders to act with confidence.
-
-With 15+ years of hands-on experience across **SQL, Power BI, QlikView, telemetry analytics, reporting ecosystems, and data transformation**, I combine technical depth with business pragmatism.
-
-I believe good data should do three things:
-
-- clarify what matters  
-- reduce noise 
-- improve the quality of decisions
+### My Focus
+* **Architecting Trust:** Building data foundations that stand up to scrutiny.
+* **Translating Complexity:** Turning raw signals into executive narratives.
+* **Driving Action:** Ensuring insights lead to measurable business outcomes.
 
 ---
 
-# 🛡️ Core Delivery Principles
+## 🛠️ Technical Arsenal
+| Area | Expertise |
+| :--- | :--- |
+| **Data Strategy** | Governance, BI Roadmap, Operational Performance |
+| **Engineering** | SQL, Python, ETL/ELT Pipelines, Data Modeling |
+| **Visualization** | Power BI, QlikView, Executive Dashboarding |
+| **Advanced Analytics** | Telemetry/IoT Analytics, Predictive Forecasting, Behavioural Data Science |
 
-## 1. Technical Depth
+---
+## 🧪 Current Focus: Garmin Telemetry Intelligence
 
-I am practitioner-led, not theory-led.
+I am currently mapping the feedback loop between human performance and data. By analyzing **1,400+ days of personal Garmin telemetry**. I am transforming raw, fragmented signals into a coherent narrative of recovery, stress, and physiological capacity.
 
-That means understanding systems from the ground up:
+### The Intelligence Stack
+* **The Engine:** Python-driven ETL pipelines and predictive modeling for trend forecasting.
+* **The Mirror:** An interactive **Power BI Executive Dashboard** in active development, designed to visualize the "Human-Data" loop.
 
-- data models  
-- pipelines  
-- governance controls  
-- BI environments  
-- performance optimisation  
-- reporting integrity  
-- root-cause diagnostics
+*I am currently polishing the interface to ensure that complexity doesn't compromise clarity—turning thousands of data points into a single, actionable view of performance readiness.*
 
-Strong dashboards begin with strong architecture.
+**🔍 Watch this space:** I am documenting the methodology and will be releasing select dashboard previews and findings soon. This is more than a fitness project; it is a live case study in **Decision Intelligence.**
+
+🔗 **[Track the project on GitHub](https://github.com/SimplyBerni/Garmin-Analytics-Project)**
 
 ---
 
-## 2. Leadership Through Accountability
-
-I build high-performing teams that value:
-
-- ownership  
-- precision  
-- transparency  
-- curiosity  
-- delivery discipline
-
-The goal is not just output.
-
-The goal is trusted output.
+## 🛡️ Core Delivery Principles
+1.  **Practitioner-Led:** I understand systems from the data model up to the dashboard.
+2.  **Leadership through Accountability:** Precision, transparency, and delivery discipline.
+3.  **Executive Translation:** If it doesn’t inform the C-Suite, it’s just noise.
 
 ---
 
-## 3. Executive Communication
+## 🤝 Open to Collaboration
+I am actively seeking partnerships with:
+* Organisations modernising their analytics capability.
+* Wearable / Health-tech innovators.
+* Founders building data-driven products.
 
-One of the rarest skills in analytics is translation.
-
-I turn technical complexity into language decision-makers can use:
-
-- what is happening  
-- why it matters  
-- risks to consider  
-- actions available  
-- likely outcomes
-
-Insight only matters when it changes behaviour.
+**If you believe data should empower rather than overwhelm, let’s talk.**
 
 ---
 
-# 🧪 Current Project | Garmin Telemetry Intelligence
-
-## Turning 4+ Years of Wearable Data Into Behavioural Intelligence
-
-I’m currently analysing **1,400+ days of personal Garmin telemetry data** using Python and machine learning.
-
-The project explores:
-
-- recovery readiness  
-- performance patterns  
-- sleep-performance relationships  
-- stress trends  
-- training load intelligence  
-- predictive forecasting  
-- long-term VO2 Max drivers
-
-This is more than a fitness project.
-
-It is a case study in how raw telemetry can become decision intelligence.
-
-### GitHub Repository
-
-🔗 **github.com/SimplyBerni**
+## 🌐 Connect
+* **LinkedIn:** [Bernadette M.](https://www.linkedin.com/in/bernadatte-m-78055559)
+* **GitHub:** [@SimplyBerni](https://github.com/SimplyBerni)
 
 ---
 
-# 💼 Areas of Interest
+### ⚡ Philosophy
+The best data professionals do not merely build reports. They empower better decision-making when the stakes are real.    
 
-I enjoy solving problems involving:
-
-- Business Intelligence Strategy  
-- Data Governance  
-- Executive Dashboards  
-- Predictive Analytics  
-- Operational Performance Management  
-- Telemetry / IoT Analytics  
-- Behavioural Data Science  
-- AI-Enabled Decision Support
-
----
-
-# 🤝 Open to Collaboration
-
-Interested in working with:
-
-- organisations modernising analytics capability  
-- teams needing stronger BI leadership  
-- founders building data products  
-- wearable / health-tech innovators  
-- professionals exploring telemetry analytics  
-- businesses needing decision-grade reporting
-
-If you believe data should empower rather than overwhelm, we’ll likely get along.
-
----
-
-# 🌐 Connect
-
-- LinkedIn: https://www.linkedin.com/in/bernadatte-m-78055559
-- GitHub: https://github.com/SimplyBerni
-
----
-
-# ⚡ Philosophy
-
-The best data professionals do not merely build reports.
-
-They empower better decision making when the stakes are real.
-    
 <!--
 **SimplyBerni/SimplyBerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
