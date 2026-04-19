@@ -1,40 +1,147 @@
-# 🏛️ Berni | Strategic Data Architect & Practice Lead
+# 🏛️ Berni | Strategic Data Architect • Analytics Leader • Decision Intelligence
 
-### The Framework: Decisions Without the Guesswork
-A "gut feeling" is a luxury that modern business can rarely afford. I bridge the gap between intuition and execution by providing the **data-driven evidence** necessary to turn a hypothesis into a strategic move. 
+## Turning Data Into Decisions That Hold Under Pressure
 
-My approach is rooted in **applied intelligence**: ensuring every decision is backed by data that is clean, compliant, and contextually relevant. I leverage 15+ years of technical depth (**SQL, Power BI, QlikView**) to translate complex architectures into a *"Zero-Bluff"* roadmap for leadership.
+Modern organisations generate more data than ever, yet many still make critical decisions with incomplete evidence, weak governance, or intuition disguised as strategy.
 
----
+I work at the intersection of **data architecture, analytics, and executive decision-making**  empowering organisations to move from uncertainty to clarity.
 
- ### 🛡️The Three Pillars of My Delivery
+My focus is simple:
 
-* **Technical Astuteness:** I am a practitioner first. I understand the architecture from the ground up, ensuring the data quality is unshakable before it ever reaches a slide deck.
+> Build trusted data foundations.  
+> Translate complexity into insight.  
+> Enable leaders to act with confidence.
 
-* **Empowered Leadership:** My management style is built on high-stature accountability. I lead teams to be as meticulous with the "why" as they are with the "how," fostering a culture where data integrity is the standard, not the goal.
+With 15+ years of hands-on experience across **SQL, Power BI, QlikView, telemetry analytics, reporting ecosystems, and data transformation**, I combine technical depth with business pragmatism.
 
-* **Stakeholder Sharpness:** I translate complex technical structures into a common-sense language. I provide executives with the clarity to act, the evidence to defend their choices, and the governance to remain compliant in regulated environments.
+I believe good data should do three things:
 
----
-
-### 🧪 Proof of Concept: The Garmin Biometric Study
-
-Turning 4 Years of Telemetry into Strategic Insights.
-As a demonstration of my commitment to Telemetry Analysis, I am currently processing 1,400+ days of my own biometric data.
-
-* **The Goal:** To move beyond surface-level "vanity metrics" and uncover the underlying trends in performance, resilience, and recovery.
-
-* **The Application:** This project mirrors the way I approach enterprise data: finding the signal in the noise and proving that when you apply the mind to the numbers, the right path becomes self-evident.
+- clarify what matters  
+- reduce noise 
+- improve the quality of decisions
 
 ---
 
-### 🤝 Strategic Collaboration
+# 🛡️ Core Delivery Principles
 
-Actively seeking partnerships that require balanced, human-first data approach to industries that demand both high-stature delivery and absolute integrity.
+## 1. Technical Depth
 
-_If you’re looking for data that empowers rather than overwhelms, let’s connect._
+I am practitioner-led, not theory-led.
 
-[LinkedIn](www.linkedin.com/in/bernadatte-m-78055559)
+That means understanding systems from the ground up:
+
+- data models  
+- pipelines  
+- governance controls  
+- BI environments  
+- performance optimisation  
+- reporting integrity  
+- root-cause diagnostics
+
+Strong dashboards begin with strong architecture.
+
+---
+
+## 2. Leadership Through Accountability
+
+I build high-performing teams that value:
+
+- ownership  
+- precision  
+- transparency  
+- curiosity  
+- delivery discipline
+
+The goal is not just output.
+
+The goal is trusted output.
+
+---
+
+## 3. Executive Communication
+
+One of the rarest skills in analytics is translation.
+
+I turn technical complexity into language decision-makers can use:
+
+- what is happening  
+- why it matters  
+- risks to consider  
+- actions available  
+- likely outcomes
+
+Insight only matters when it changes behaviour.
+
+---
+
+# 🧪 Current Project | Garmin Telemetry Intelligence
+
+## Turning 4+ Years of Wearable Data Into Behavioural Intelligence
+
+I’m currently analysing **1,400+ days of personal Garmin telemetry data** using Python and machine learning.
+
+The project explores:
+
+- recovery readiness  
+- performance patterns  
+- sleep-performance relationships  
+- stress trends  
+- training load intelligence  
+- predictive forecasting  
+- long-term VO2 Max drivers
+
+This is more than a fitness project.
+
+It is a case study in how raw telemetry can become decision intelligence.
+
+### GitHub Repository
+
+🔗 **github.com/SimplyBerni**
+
+---
+
+# 💼 Areas of Interest
+
+I enjoy solving problems involving:
+
+- Business Intelligence Strategy  
+- Data Governance  
+- Executive Dashboards  
+- Predictive Analytics  
+- Operational Performance Management  
+- Telemetry / IoT Analytics  
+- Behavioural Data Science  
+- AI-Enabled Decision Support
+
+---
+
+# 🤝 Open to Collaboration
+
+Interested in working with:
+
+- organisations modernising analytics capability  
+- teams needing stronger BI leadership  
+- founders building data products  
+- wearable / health-tech innovators  
+- professionals exploring telemetry analytics  
+- businesses needing decision-grade reporting
+
+If you believe data should empower rather than overwhelm, we’ll likely get along.
+
+---
+
+# 🌐 Connect
+
+- LinkedIn: https://www.linkedin.com/in/bernadatte-m-78055559
+- GitHub: https://github.com/SimplyBerni
+
+---
+
+# ⚡ Philosophy
+
+The best data professionals do not merely build reports.
+
+They empower better decision making when the stakes are real.
     
 <!--
 **SimplyBerni/SimplyBerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
