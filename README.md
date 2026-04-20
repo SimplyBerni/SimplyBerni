@@ -9,6 +9,13 @@ Modern organisations generate more data than ever, yet many still make critical 
 
 I work at the intersection of **data architecture, analytics, and executive decision-making**—empowering organisations to move from uncertainty to clarity.
 
+### Core Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ### My Focus
 * **Architecting Trust:** Building data foundations that stand up to scrutiny.
 * **Translating Complexity:** Turning raw signals into executive narratives.
@@ -47,17 +54,12 @@ I am currently mapping the feedback loop between human performance and data. By 
 3.  **Executive Translation:** If it doesn’t inform the C-Suite, it’s just noise.
 
 ---
-
 ## 🤝 Open to Collaboration
-I am actively seeking partnerships with:
-* Organisations modernising their analytics capability.
-* Wearable / Health-tech innovators.
-* Founders building data-driven products.
+*I am actively seeking partnerships with organisations modernising their analytics capabilities, tech-based innovators, and founders building data-driven products.*
 
 **If you believe data should empower rather than overwhelm, let’s talk.**
 
 ---
-
 ## 🌐 Connect
 * **LinkedIn:** [Bernadette M.](https://www.linkedin.com/in/bernadatte-m-78055559)
 * **GitHub:** [@SimplyBerni](https://github.com/SimplyBerni)
@@ -65,7 +67,9 @@ I am actively seeking partnerships with:
 ---
 
 ### ⚡ Philosophy
-The best data professionals do not merely build reports. They empower better decision-making when the stakes are real.    
+The best data professionals do not merely build reports. **They empower better decision-making when the stakes are real.**
+
+---
 
 <!--
 **SimplyBerni/SimplyBerni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
